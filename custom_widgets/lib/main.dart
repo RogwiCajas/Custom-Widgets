@@ -1,4 +1,5 @@
-import 'package:custom_widgets/src/app/modules/home_page.dart';
+import 'package:custom_widgets/src/app/modules/onboarding/home_page.dart';
+import 'package:custom_widgets/src/app/modules/onboarding/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
