@@ -5,14 +5,14 @@ import 'package:flutter/material.dart';
 import 'package:custom_widgets/src/app/modules/onboarding/slider_item.dart';
 import 'package:custom_widgets/src/app/modules/onboarding/my_painter2.dart';
 
-class HomeScreen extends StatefulWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+class OnBoardingScreen extends StatefulWidget {
+  const OnBoardingScreen({Key? key}) : super(key: key);
 
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen>
+class _HomeScreenState extends State<OnBoardingScreen>
     with SingleTickerProviderStateMixin {
   //
 

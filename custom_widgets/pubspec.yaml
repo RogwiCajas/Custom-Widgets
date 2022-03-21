@@ -32,6 +32,8 @@ dependencies:
   
   get: ^4.1.4
   http: ^0.13.4
+  flare_flutter: any
+  rive: ^0.8.4
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -64,6 +66,9 @@ flutter:
      - assets/boarding/1.png
      - assets/boarding/2.png
      - assets/boarding/3.png
+     - assets/dialog/error.riv
+     - assets/dialog/check.riv
+     - assets/dialog/alert.riv
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
